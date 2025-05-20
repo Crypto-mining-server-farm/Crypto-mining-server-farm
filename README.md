@@ -1,4 +1,5 @@
-``` # Crypto Mining Server Farm
+
+# Crypto Mining Server Farm
 
 ![Windows 10/11](https://img.shields.io/badge/Windows-10%20|%2011-blue.svg)
 ![Actual Version](https://img.shields.io/badge/Version-1.0.0-green.svg)
